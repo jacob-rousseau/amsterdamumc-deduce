@@ -5,6 +5,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+
+## 3.1.0 (2024-02-11)
+- retagging version to 3.1.0-AmsterdamUMC to match DEDUCE version core usage and simultaneously adhering
+  to the semantic versioning.
+
 ## 1.1.2 (2024-09-12)
 - version used for the DEDUCE validation report. Tagged with GIT as 1.1.2 (on 2024-09-12)
 
