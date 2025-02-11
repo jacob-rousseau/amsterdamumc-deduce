@@ -8,7 +8,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## 3.1.0 (2024-02-11)
 - retagging version to 3.1.0-AmsterdamUMC to match DEDUCE version core usage and simultaneously adhering
-  to the semantic versioning.
+  to the semantic versioning
+- update of black dependency in pyproject.tpml due to a vulnerability found by Google osv-scanner version: 1.9.2. 
+- run poetry update to include solved vulnerabilities
 
 ## 1.1.2 (2024-09-12)
 - version used for the DEDUCE validation report. Tagged with GIT as 1.1.2 (on 2024-09-12)
